@@ -16,7 +16,7 @@ To run your tests
 
 - Change to the `javascript` folder
 - run `npm test` to run all of the tests
-- run `npm test ##` to only run tests for challenge ## (i.e. 01)
+- run `npm test ##` to only run tests for challenge ## 
 
 ### 401 Data Structures, Code Challenges
 
